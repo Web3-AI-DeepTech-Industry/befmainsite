@@ -127,7 +127,7 @@ const LandingPage = () => {
       icon: <ChevronsLeftRightEllipsis  className="w-8 h-8" />,
       gradient: "from-indigo-400 to-blue-700",
         path: `/industries/web3_ai`
-    }
+    },
 
      {
       id: 'automobile',
@@ -136,7 +136,7 @@ const LandingPage = () => {
       icon: <Target className="w-8 h-8" />,
       gradient: "from-blue-600 to-purple-600",
       path: `/industries/Automobile & mobilty/automobile`
-    },
+    }
   ];
 
   // Auto-slide carousel
